@@ -1,0 +1,14 @@
+4
+3
+Mario 30
+Alberto 20
+Genio 40
+Mario
+3
+Arturito 10
+Benavides 40
+Seba 20
+Benavides
+2
+Loco 30
+Loco

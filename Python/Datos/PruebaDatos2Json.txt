@@ -1,0 +1,23 @@
+[
+    {
+        "Rut":"21218773-9",
+        "Nombre": "Cristopher Roman",
+        "Carrera": "Ingenieria Informatica",
+        "Fono": 77663344,
+        "Promedio": 6
+    },
+    {
+        "Rut":"88777333-9",
+        "Nombre": "Alec",
+        "Carrera": "Ingenieria Electrica",
+        "Fono": 33344455,
+        "Promedio": 3
+    },
+    {
+        "Rut":"99334455-0",
+        "Nombre": "Genesis",
+        "Carrera": "Tecnico Enfermeria",
+        "Fono": 77223344,
+        "Promedio": 7
+    }
+]

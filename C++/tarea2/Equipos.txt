@@ -1,0 +1,33 @@
+8
+4
+Mario 20
+Luigi 10
+Peach 15
+Daisy 17
+Mario
+3
+Sonic 25
+Shadow 10
+Tails 15
+Sonic
+2
+Pikachu 30
+Ash 20
+Ash
+1
+FLUDD 60
+FLUDD
+2
+Jesse 23
+Walter 22
+Walter
+1
+Saul 19
+Saul
+2
+Adam 34
+Koku 89
+Adam
+1
+Bacteria 20
+Bacteria
